@@ -1,0 +1,4 @@
+java -jar C:\Users\Aym\IdeaProjects\SimpleShopSystem\SimpleShopSystem.jar C:\Users\Aym\IdeaProjects\SimpleShopSystem\input.json            PATH FROM PROJECT
+
+
+java -jar C:\Users\Aym\IdeaProjects\SimpleShopSystem\SimpleShopSystem.jar C:\input.json

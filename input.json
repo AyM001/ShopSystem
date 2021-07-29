@@ -1,0 +1,44 @@
+{
+  "stock" : [ {
+    "name" : "Milk",
+    "price" : 5,
+    "quantity" : 3,
+    "maxQuantity" : 100,
+    "category" : {
+      "name" : "FOOD"
+    }
+  }, {
+    "name" : "Bread",
+    "price" : 4,
+    "quantity" : 6,
+    "maxQuantity" : 200,
+    "category" : {
+      "name" : "FOOD"
+    }
+  }, {
+    "name" : "PANTS",
+    "price" : 100,
+    "quantity" : 20,
+    "maxQuantity" : 100,
+    "category" : {
+      "name" : "CLOTHES"
+    }
+  }, {
+    "name" : "SOCKS",
+    "price" : 7,
+    "quantity" : 10,
+    "maxQuantity" : 100,
+    "category" : {
+      "name" : "CLOTHES"
+    }
+  } ],
+  "clients" : [ {
+    "name" : "Jim",
+    "balance" : 500
+  } ],
+  "categories" : [ {
+    "name" : "FOOD"
+  }, {
+    "name" : "CLOTHES"
+  } ]
+}
